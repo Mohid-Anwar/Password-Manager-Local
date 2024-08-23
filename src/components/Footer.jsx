@@ -11,7 +11,7 @@ const Footer = () => {
 
       <div className="flex justify-center items-center">
         Learning to Code{" "}
-        <img className="w-7 m-2" src="/icons/heart.png" alt="heart" /> &copy;
+        <img className="w-7 m-2" src="icons/heart.png" alt="heart" /> &copy;
         Mohid Anwar
       </div>
     </footer>

@@ -216,7 +216,7 @@ const Manager = () => {
                   ref={ref}
                   className="p-1"
                   width={30}
-                  src="/icons/eye.png"
+                  src="icons/eye.png"
                   alt="eye"
                 />
               </span>
